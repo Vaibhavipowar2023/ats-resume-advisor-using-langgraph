@@ -1,0 +1,17 @@
+[project]
+name = "resume-screener-langgraph"
+version = "0.1.0"
+description = "Resume Screener using LangGraph"
+requires-python = "==3.11.*"
+
+dependencies = [
+    "langchain==0.2.16",
+    "langchain-core==0.2.43",
+    "langchain-community==0.2.16",
+    "langchain-groq==0.1.9",
+    "langgraph==0.2.28",
+    "streamlit==1.38.0",
+    "python-dotenv==1.0.1",
+    "pandas==2.2.2",
+    "pypdf==4.3.1",
+]
