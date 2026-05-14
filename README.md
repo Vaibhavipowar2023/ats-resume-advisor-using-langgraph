@@ -108,12 +108,4 @@ http://localhost:8501
 - Suggested resume sections or bullet points
 - Final advisor report
 
-## Important Note
 
-This tool gives AI-assisted resume improvement guidance. It should not be treated as a guarantee that a resume will pass every ATS system or receive an interview. Candidates should only add skills, experience, tools, and achievements that are truthful.
-
-## Recommended Repository Name
-
-```text
-ats-resume-advisor-langgraph
-```
